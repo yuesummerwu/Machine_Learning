@@ -20,10 +20,10 @@ This repository includes the following files and directories:
 ***Note:** All data used in this project are publicly accessible from the NC DPI. The provided Markdown files include code that directly retrieves data from the websites, eliminating the need to download datasets beforehand. Feel free to reuse these scripts for other analyses!*
 
 ## Key Features 🚀
-- **Hierarchical Cluster Analysis (HCA):** Unveiling school clusters based on structural barriers and outcomes.
-- **Visualizations:** Communicating findings through heatmaps and bubble plots.
+- **Receiver Operating Characteristics Area Under the Curve (ROC AUC):** 
+- **Visualizations:** 
 - **Data Sources:** Public data from North Carolina Department of Public Instruction.
-- **Focus on Equity:** Investigating educational inequities and potential solutions.
+- **Focus on Equity:** 
 
 ## Contact 📫
 - 📧: sw3891@tc.columbia.edu
