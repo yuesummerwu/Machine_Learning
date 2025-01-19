@@ -14,7 +14,7 @@ This repository includes the following files and directories:
 
 - **`code/`**: Scripts for data preprocessing, clustering, and visualizations, available in multiple formats, including Markdown, RMarkdown, and HTML. 💻
 - - For better preview experiences, please refer to [the HTML](https://yuesummerwu.github.io/Hiarachical_Cluster_Analysis/ORLA6541_Midterm/Code/ORLA6541_Midterm_HCAHeatmap_YueSummerWu.html).
-- **`figures/`**: Visual outputs. 📊 
-- **`paper/`**: An AERA-style proposal in PDF format, complete with figures, tables, and references. 📝<br>
+- **`figures/`**: Visual outputs, such as AUC ROC 📊 
+- **`paper/`**: An AERA-style proposal in PDF format, complete with figures, tables, and references 📝<br>
 
 ***Note:** All data used in this project are publicly accessible from the NC DPI. The provided Markdown files include code that directly retrieves data from the websites, eliminating the need to download datasets beforehand. Feel free to reuse these scripts for other analyses!*
